@@ -1,4 +1,4 @@
-#This simple code takes the percent from player 1 of super smash bros melee and prints to screen.
+#This simple code takes the percent from player 1 of super smash bros melee and prints to screen... sometimes!
 
 
 from PIL import Image, ImageGrab
